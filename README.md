@@ -38,8 +38,9 @@ Obs: tudo o que esta em exclamação colchetes é a descrição, o que esta em p
 Obs2: **Para imagens** É a mesma coisa sendo que na imagem não tem a exclamação
 
 Para criar tabela a primeira coisa é colocar as colunas com a barra em é (pype).
+
 Num |Nome | idade | Escolaridade
----|---|---
+---|---|---|---
 1 | Jefferson | 31 | Superior incompleto
 
 Linhas e barras em pé é para criar a separação dos títulos para o conteudo da tabela
@@ -51,6 +52,7 @@ Com dois pontos da para se colocar emotion, valeu :hand
 Para encontrar os códigos acesse github.com/ikatyang e você vai ver nos repositórios o emoji
 
 Trechos de programa são três crases abrindo e três fechando
+
 ```let num = [2,3,4,5,6]
 
 function impar (n){
@@ -58,6 +60,6 @@ function impar (n){
 }
 
 result = num.filter(impar)
-console.log(result)``` 
+console.log(result)
 
 
