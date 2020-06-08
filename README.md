@@ -53,7 +53,8 @@ Para encontrar os códigos acesse github.com/ikatyang e você vai ver nos reposi
 
 Trechos de programa são três crases abrindo e três fechando
 
-```let num = [2,3,4,5,6]
+```
+let num = [2,3,4,5,6]
 
 function impar (n){
   return n % 2 != 0
@@ -61,5 +62,6 @@ function impar (n){
 
 result = num.filter(impar)
 console.log(result)
+```
 
 
