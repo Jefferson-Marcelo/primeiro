@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(245, 245, 40);
+}
+
+h1{
+    font-size: 30px;
+}
+
+img{
+    height: 15em;
+    width: 15em;
+}
+
+p{
+    background-color: rgb(227, 114, 231);
+    border-radius: 50px;
+    margin-left: 21em;
+    margin-right: 21em;
+}
